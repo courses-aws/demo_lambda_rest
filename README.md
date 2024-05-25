@@ -1,2 +1,6 @@
-# demo_lambda_rest
-Lambda que ejecutará el api gateway
+## BACKEND CURSO NODEJS
+### PARA CREAR EMPAQUETADO PARA LAMBDA
+npm run build:lambda
+
+### PROBAR LAMBDA LOCAL
+npx serverless offline
